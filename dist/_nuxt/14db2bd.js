@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{601:function(e,n,t){"use strict";t.r(n);var l=t(22).default.extend({name:"IndexPage",created:function(){this.$router.push("/login")}}),o=t(67),component=Object(o.a)(l,(function(){var e=this._self._c;this._self._setupProxy;return e("div")}),[],!1,null,null,null);n.default=component.exports}}]);

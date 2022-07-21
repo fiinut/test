@@ -1,0 +1,72 @@
+[
+  {
+    "name": "add-content",
+    "path": "/add-content",
+    "component": "/Users/fernfii/Sites/test-build/test/pages/add-content.vue",
+    "chunkName": "pages/add-content",
+    "_name": "_036d30f2"
+  },
+  {
+    "name": "client-home",
+    "path": "/client-home",
+    "component": "/Users/fernfii/Sites/test-build/test/pages/client-home.vue",
+    "chunkName": "pages/client-home",
+    "_name": "_596f5d74"
+  },
+  {
+    "name": "client-preview",
+    "path": "/client-preview",
+    "component": "/Users/fernfii/Sites/test-build/test/pages/client-preview.vue",
+    "chunkName": "pages/client-preview",
+    "_name": "_088e8ab1"
+  },
+  {
+    "name": "client-search",
+    "path": "/client-search",
+    "component": "/Users/fernfii/Sites/test-build/test/pages/client-search.vue",
+    "chunkName": "pages/client-search",
+    "_name": "_01a31dcf"
+  },
+  {
+    "name": "edit-content",
+    "path": "/edit-content",
+    "component": "/Users/fernfii/Sites/test-build/test/pages/edit-content.vue",
+    "chunkName": "pages/edit-content",
+    "_name": "_d780313e"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/fernfii/Sites/test-build/test/pages/home.vue",
+    "chunkName": "pages/home",
+    "_name": "_3567070a"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/fernfii/Sites/test-build/test/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_d5427e64"
+  },
+  {
+    "name": "preview",
+    "path": "/preview",
+    "component": "/Users/fernfii/Sites/test-build/test/pages/preview.vue",
+    "chunkName": "pages/preview",
+    "_name": "_5c50ce6d"
+  },
+  {
+    "name": "style-guide",
+    "path": "/style-guide",
+    "component": "/Users/fernfii/Sites/test-build/test/pages/style-guide.vue",
+    "chunkName": "pages/style-guide",
+    "_name": "_32bff405"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/fernfii/Sites/test-build/test/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6891c492"
+  }
+]

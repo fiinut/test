@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{598:function(n,e,t){"use strict";t.r(e);var l=t(22).default.extend({layout:"login",name:"LoginPage"}),o=t(67),component=Object(o.a)(l,(function(){var n=this,e=n._self._c;n._self._setupProxy;return e("h1",[n._v("Login")])}),[],!1,null,null,null);e.default=component.exports}}]);
