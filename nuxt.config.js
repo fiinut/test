@@ -57,5 +57,4 @@ export default {
   build: {
     publicPath: '/zm5Frontend/'
   },
-  target: 'static'
 }

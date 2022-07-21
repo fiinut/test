@@ -1,19 +1,4 @@
 {
-  "ModalAddLinkBannerModal": {
-    "description": "Auto imported from components/modal/AddLinkBannerModal.vue"
-  },
-  "ModalConfirm": {
-    "description": "Auto imported from components/modal/ModalConfirm.vue"
-  },
-  "ModalPreviewContentModal": {
-    "description": "Auto imported from components/modal/PreviewContentModal.vue"
-  },
-  "ModalSuccessModal": {
-    "description": "Auto imported from components/modal/SuccessModal.vue"
-  },
-  "ModalUploadImgModal": {
-    "description": "Auto imported from components/modal/UploadImgModal.vue"
-  },
   "ElementsButton": {
     "description": "Auto imported from components/elements/Button.vue"
   },
@@ -37,5 +22,20 @@
   },
   "ElementsTable": {
     "description": "Auto imported from components/elements/Table.vue"
+  },
+  "ModalAddLinkBannerModal": {
+    "description": "Auto imported from components/modal/AddLinkBannerModal.vue"
+  },
+  "ModalConfirm": {
+    "description": "Auto imported from components/modal/ModalConfirm.vue"
+  },
+  "ModalPreviewContentModal": {
+    "description": "Auto imported from components/modal/PreviewContentModal.vue"
+  },
+  "ModalSuccessModal": {
+    "description": "Auto imported from components/modal/SuccessModal.vue"
+  },
+  "ModalUploadImgModal": {
+    "description": "Auto imported from components/modal/UploadImgModal.vue"
   }
 }
