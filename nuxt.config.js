@@ -55,6 +55,11 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-    publicPath: '/zm5Frontend/'
+
   },
+  mode: 'spa',
+
+  generate: {
+    dir: 'my-site'
+  }
 }
